@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Ansvver returned to the letter from Legorn by a merchant concerned in the ship.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40913</idno>
+            <idno type="STC">Wing F46</idno>
+            <idno type="STC">ESTC R16680</idno>
+            <idno type="EEBO-CITATION">12010109</idno>
+            <idno type="OCLC">ocm 12010109</idno>
+            <idno type="VID">52383</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40913)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52383)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 867:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Ansvver returned to the letter from Legorn by a merchant concerned in the ship.</title>
+                  <author>L. F.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Signed: L.F.</note>
+                  <note>A satire on the hysteria of the Popish Plot, largely directed against Presbyterians.</note>
+                  <note>Publication information taken from NUC.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678 --  Anecdotes.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:52383:1" rendition="simple:additions"/>
+            <head>AN ANSWER Returned to the Letter from Legorn, BY A MERCHANT concerned in the SHIP.</head>
+            <opener>
+               <salute>Honeſt Ralph,</salute>
+            </opener>
+            <p>I Received yours, and having ſo conſiderable a <hi>Cargo</hi> a-board the endanger'd Veſſel, communicated the ſad news to moſt of the <hi>Part-owners,</hi> who are all not a little ſurprized, and 'tis believed moſt of the <hi>Chriſtian World</hi> muſt be amazed to hear of ſuch a deſperate <hi>Conſpi<g ref="char:EOLhyphen"/>racy,</hi> which bids defiance to all the antient maxims of poli<g ref="char:EOLhyphen"/>cy; for a Plot <hi>once diſcovered,</hi> was ever heretofore look'd upon as prevented and defeated: But <hi>This</hi> it ſeems bears up and encreaſes, like ſome very <hi>foul-ſtomack,</hi> that converts <hi>weak and languid</hi> Medicines into nouriſhment for the Diſeaſe. For beſides the account given by you, we ſince underſtand from other hands, That this <hi>Helliſh Contrivance</hi> hath a-long time been fomented by the <hi>Mahumetan Faction;</hi> That the <hi>Algerines</hi> under-pretence of <hi>Traffick</hi> and <hi>Amity</hi> have main<g ref="char:EOLhyphen"/>tain'd ſeveral <hi>Spies</hi> a-board amongſt you, and afforded large <hi>Penſions</hi> to ſome eminent Officers to <hi>debauch</hi> them from their duty; particularly the <hi>Purſer,</hi> who from a private <hi>Tarpaulin,</hi> in few months raiſed himſelf to incredible <hi>favour</hi> with the Captain, and a prodigious eſtate, hath been a moſt treache<g ref="char:EOLhyphen"/>rous Villain, and by ill management much waſted the <hi>Pro<g ref="char:EOLhyphen"/>viſions</hi> and <hi>Stores</hi> of the Ship; and though he be at preſent confined to the <hi>Gun-room,</hi> yet pretends an Acquittance of all
+<pb n="2" facs="tcp:52383:2"/>miſcarriages under the Captains hand, and 'tis feared hath left too great an influence behind him: Beſides, we hear that there are two pernitious <hi>Paſſengers</hi> a-board that lye in the <hi>great Cabbin,</hi> the one, an <hi>Algerine</hi> Woman, that ſome<g ref="char:EOLhyphen"/>times pretends her ſelf a kind of <hi>Sultaneſs,</hi> but is in truth the ſpurious iſſue of a baſe <hi>Muſleman,</hi> and imagined to be an <hi>Enchantreſs,</hi> for that the <hi>ſpir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t of infatuation</hi> is her conſtant <hi>familiar.</hi> This Hag, 'tis ſaid, devours more <hi>Proviſions</hi> in a day than would ſerve the whole <hi>Ships Crew</hi> a month; the other a <hi>Renegado,</hi> formerly <hi>Steerſman</hi> of a <hi>Pinnace,</hi> in which 'tis ſaid, the Lieutenant ſails at preſent; theſe are ſuppoſed to be great Remora's to the Aſſembling of the <hi>general Council</hi> of Officers, being aſſiſted with a <hi>Chians</hi> of <hi>Algiers,</hi> who ſe<g ref="char:EOLhyphen"/>conds their deſtructive counſels.</p>
+            <p>But notwithſtanding all this, and the apprehenſions you juſtly are in of danger, yet we hope the worſt is paſt; for we have ſtated the whole Caſe to our <hi>Judg-Advocate,</hi> and conſulted ſeveral Learned <hi>Civilians,</hi> well skill'd in the <hi>Laws</hi> of <hi>Oleroon,</hi> and <hi>uſages</hi> of the <hi>Seas,</hi> intreating their Beſt ad<g ref="char:EOLhyphen"/>vice in this important Affair; from whom we have received the following <hi>Inſtructions,</hi> which I think fit to acquaint you with, that they may be communicated to the <hi>honeſt Sai<g ref="char:EOLhyphen"/>lors.</hi>
+            </p>
+            <p>Before all things, 'tis adviſed, That notwithſtanding all diſcouragements and jealouſies, you continue ſtedfaſt in your <hi>obedience to the Captain,</hi> and by no means ſuffer your ſelves by indiſcreet zeal, or frightful amuſements, to be hurried in<g ref="char:EOLhyphen"/>to any <hi>undutiful</hi> behaviour or <hi>mutiny;</hi> hearken not to any malicious whiſpers, either of the <hi>Mahumetans, Algerines,</hi> or <hi>Mungril-Chriſtians,</hi> whoſe only deſign is to raiſe diſturbances, and make you acceſſary (if they could) to the Captains juſt ſeverities. 'Tis well known, that when formerly he tra<g ref="char:EOLhyphen"/>velled the <hi>Mahumetan</hi> Regions, he bravely maintained the <hi>Chriſtian Faith,</hi> and would not ſuffer himſelf to be ſeduced by any temptations of the <hi>Infidels;</hi> his Father likewiſe dyed a <hi>Martyr</hi> for the true Religion, and nothing but the moſt miſchievous malice, can imagine that he can be prevailed with now to <hi>connive</hi> at their impious Idolatries: you know how great an <hi>Intereſt</hi> he hath in the Ship more than any, and that thoſe that endeavour to <hi>betray</hi> you, aim likewiſe at his <hi>life.</hi> Let this conſideration ſecure your fears, and perſwade you to
+<pb n="3" facs="tcp:52383:2"/>wait with <hi>patience;</hi> though to ſome over-heated ſpirits he ſeem not ſo violent in proſecuting the Conſpirators, yet the neceſſary care and <hi>zeal</hi> he hath already ſhown, demonſtrates the <hi>ſincerity</hi> of his intentions. Remember, when our great Maſters followers were ſo raſh as to <hi>call for fire from heaven,</hi> he told them <hi>they knew not what ſpirit they were of.</hi> Your Captain's great Command furniſhes him with better means from the <hi>fore-caſtle</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> foreſee impendent <hi>dangers;</hi> and no doubt when he finds <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffairs brought to a <hi>criſis,</hi> will ſtrike home, and redeem the delay by the <hi>ſeverity</hi> of the Blow.</p>
+            <p n="2">2. It will yet not be inconvenient, That by all due and <hi>lawful</hi> means all the faithful Sailors ſhould in an <hi>humble</hi> manner <hi>addreſs</hi> and make application to the Captain; To remonſtrate their dangers, and poſſeſs him with a <hi>right appre<g ref="char:EOLhyphen"/>henſion of things;</hi> it being part of their <hi>duty</hi> by their <hi>ſolemn vow</hi> when firſt they entred into the ſervice, to diſcover to him all <hi>private Conſpiracies</hi> that ſhall fall within the verge of their knowledg. For 'tis not impoſſible that ſome of the grand Conſpirators or their Confederates may ſo beſiege his ears; and miſrepreſent the <hi>ſtate</hi> of affairs, and the true end of the <hi>Loyal Seamens</hi> applications, that without ſuch repeated In<g ref="char:EOLhyphen"/>ſtances and <hi>Importunities,</hi> he may miſtake his <hi>Friends</hi> for his <hi>Enemies,</hi> which is the greateſt <hi>misfortune</hi> that can befall any Commander.</p>
+            <p n="3">3. As for the <hi>Algerines</hi> you mention, they are known to be the general <hi>peſt</hi> of Chriſtendom, the <hi>common Enemies</hi> of mankind, neither good <hi>Chriſtians</hi> nor yet true <hi>Mahometans;</hi> a ſort of Fantaſtick <hi>Mungrils,</hi> who within theſe few years un<g ref="char:EOLhyphen"/>der a <hi>moſt Chriſtian name</hi> have ſpilt more Chriſtian Blood than was ſhed in the Ten primitive <hi>Perſecutions.</hi> And though 'tis true they pretend to embrace and advance the <hi>Alchoran,</hi> yet indeed they value it no further than 'tis ſubſervient to their Secular Intereſt; ſo that the <hi>Mufti himſelf</hi> is afraid of them, and all his petty <hi>Hodgſa</hi>'s (or inferior Prieſts) are for<g ref="char:EOLhyphen"/>ced to truckle (as much as their own <hi>wooden-ſhoo'd Peaſants,</hi> the moſt <hi>ſneaking ſlaves</hi> in <hi>Europe</hi>) to their abſolute Ty<g ref="char:EOLhyphen"/>ranny. Nor is there any regard to be made of their moſt ſo<g ref="char:EOLhyphen"/>lemn <hi>Vows</hi> or <hi>Alliances.</hi> Some years ſince they entred into a confederacy offenſive and defenſive, firſt with the Repub<g ref="char:EOLhyphen"/>lick of <hi>Boggland,</hi> againſt the mighty Monarch of <hi>Oteana.</hi> Af<g ref="char:EOLhyphen"/>ter that, ſhifting ſides with the <hi>Oteanian Monarch,</hi> againſt the
+<pb n="4" facs="tcp:52383:3"/>
+               <hi>Bogglandea's;</hi> but truly ſerv'd <hi>neither,</hi> only bubbled <hi>both,</hi> advanced their own Grandeur, encreaſed the number of their <hi>Gallies,</hi> and learnt their <hi>ſlaves</hi> more de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>trouſly to handle their <hi>Oars,</hi> and manage Navigation as well in the <hi>Mediterra<g ref="char:EOLhyphen"/>nean</hi> as the <hi>Narrow Seas.</hi> How many Chriſtian <hi>Temples</hi> have they ſince demoliſht! How many <hi>Pyracies</hi> have they com<g ref="char:EOLhyphen"/>mitted! How m<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y <hi>Leagues</hi> have they violated! How many affronts have they offered! Yet ſtill <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſe miſchievous <hi>Apes</hi> in ſome Countreys paſs for <hi>Birds of <gap reason="illegible" resp="#UOM" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>ice:</hi> 'Tis theſe Vil<g ref="char:EOLhyphen"/>lains that underſtand occaſion the diſturbances in your <hi>Ship,</hi> and abet the Conſpirators; but had our <hi>Captain</hi> briskly faln upon them three or four years ago in their <hi>harbours,</hi> he might moſt probably have fired theſe <hi>Neſts of Hornets,</hi> and prevent<g ref="char:EOLhyphen"/>ed the general miſchief that now threatens the <hi>Chriſtians</hi> from their <hi>overgrown Grandeur.</hi> We therefore adviſe you moſt ſeriouſly, That you entertain no <hi>Treaty</hi> or <hi>Correſpondence</hi> with theſe perfidious <hi>Ragamuffins.</hi> The time was when <hi>half</hi> your number would not only have baffled them at <hi>Sea,</hi> but routed them at <hi>Land,</hi> and planted St. <hi>George's Enſigns</hi> on the tops of the higheſt Towers in <hi>Algiers.</hi> Courage I know is not yet wanting; nor ſhall, I hope, <hi>Conduct</hi> be lacking. We have a brave <hi>able Commander,</hi> though now under a cloud (the <hi>Sun</hi> you know may be <hi>eclipſed,</hi> but emerges, as to more admiring eyes, ſo with greater luſter) that has given ſignal proofs of his <hi>Abilities,</hi> and made the <hi>Raſcallions</hi> at once ad<g ref="char:EOLhyphen"/>mire (though they durſt not imitate) his Valour for them, and dread if ever it ſhould be employed againſt them. Be it <hi>He,</hi> or be it <hi>who elſe</hi> that the Captain ſhall pleaſe (accor<g ref="char:EOLhyphen"/>ding to his <hi>Commiſſion</hi>) to order to manage <hi>Affairs,</hi> and carry on the War againſt theſe peſtilent <hi>Encroachers,</hi> we do not queſtion but in ſhort time to have a good account of that <hi>Expedition.</hi> I ſhall not inlarge at preſent, intending to give you a fuller Account of my thoughts by the next. I remain,</p>
+            <closer>
+               <signed>Yours, <hi>L. F.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
